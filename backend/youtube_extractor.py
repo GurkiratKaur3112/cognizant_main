@@ -85,6 +85,8 @@ class YouTubeFeatureExtractor:
             "no_warnings":
                 False,
 
+            "cookiesfrombrowser": ("chrome"),
+
             "http_headers": {
 
                 "User-Agent":
